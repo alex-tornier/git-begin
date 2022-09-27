@@ -1,2 +1,3 @@
 cloner un repo : git clone
 3 commandes de push dans l'odre : Git commit , git branch , git push
+Pull : git pull
